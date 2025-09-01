@@ -1,0 +1,142 @@
+{
+  "characters": [
+    {
+      "name": "Monkey D. Luffy",
+      "role": "Captain",
+      "aliases": ["Straw Hat", "Mugiwara", "Lucy"],
+      "bounty": 3000000000,
+      "affiliations": ["Straw Hat Pirates", "Straw Hat Grand Fleet"],
+      "devil_fruit": {
+        "name": "Hito Hito no Mi, Model: Nika",
+        "type": "Mythical Zoan",
+        "description": "Grants the form and freedom of the Sun God Nika with rubber-like properties and absurd elasticity."
+      },
+      "abilities": ["Gear techniques", "Conqueror's Haki", "Armament Haki", "Observation Haki"],
+      "summary": "Captain of the Straw Hat Pirates who aims to become the Pirate King.",
+      "image_url":null
+    },
+    {
+      "name": "Roronoa Zoro",
+      "role": "Swordsman / First Mate",
+      "aliases": ["Pirate Hunter"],
+      "bounty": 1111000000,
+      "affiliations": ["Straw Hat Pirates"],
+      "devil_fruit": null,
+      "abilities": ["Santoryu (Three Sword Style)", "Armament Haki", "Observation Haki"],
+      "summary": "Master swordsman and Luffy's right hand, striving to become the world's greatest.",
+      "image_url":null
+    },
+    {
+      "name": "Nami",
+      "role": "Navigator",
+      "aliases": ["Cat Burglar"],
+      "bounty": 66000000,
+      "affiliations": ["Straw Hat Pirates"],
+      "devil_fruit": null,
+      "abilities": ["Cartography", "Weather manipulation (Clima-Tact)"],
+      "summary": "Genius navigator and money-savvy cartographer of the crew.",
+      "image_url":null
+    },
+    {
+      "name": "Usopp",
+      "role": "Sniper",
+      "aliases": ["God Usopp", "Sogeking"],
+      "bounty": 500000000,
+      "affiliations": ["Straw Hat Pirates"],
+      "devil_fruit": null,
+      "abilities": ["Marksmanship", "Engineering", "Trick weapons"],
+      "summary": "Courageous sniper and gadgeteer who dreams of becoming a brave warrior of the sea.",
+      "image_url":null
+    },
+    {
+      "name": "Sanji",
+      "role": "Cook",
+      "aliases": ["Black Leg", "Mr. Prince"],
+      "bounty": 1032000000,
+      "affiliations": ["Straw Hat Pirates"],
+      "devil_fruit": null,
+      "abilities": ["Black Leg Style", "Observation Haki", "Armament Haki"],
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Sanji_Anime_Post_Timeskip_Infobox.png",
+      "summary": "Chivalrous chef who fights with devastating kicks and refuses to use his hands in combat."  
+      
+    },
+    {
+      "name": "Tony Tony Chopper",
+      "role": "Doctor",
+      "aliases": ["Cotton Candy Lover"],
+      "bounty": 1000,
+      "affiliations": ["Straw Hat Pirates"],
+      "devil_fruit": {
+        "name": "Hito Hito no Mi",
+        "type": "Zoan",
+        "description": "Allows transformations between reindeer, human, and hybrid forms."
+      },
+      "abilities": ["Medicine", "Rumble Ball forms"],
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png",
+      "summary": "Kind-hearted reindeer doctor who ate the Human-Human Fruit."
+    },
+    {
+      "name": "Nico Robin",
+      "role": "Archaeologist",
+      "aliases": ["Devil Child"],
+      "bounty": 930000000,
+      "affiliations": ["Straw Hat Pirates"],
+      "devil_fruit": {
+        "name": "Hana Hana no Mi",
+        "type": "Paramecia",
+        "description": "Sprouts extra limbs from any surface to grapple or attack."
+      },
+      "abilities": ["Poneglyph reading", "Combat using replicated limbs"],
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Nico_Robin_Anime_Post_Timeskip_Infobox.png",
+      "summary": "Scholar from Ohara and one of the few who can read Poneglyphs."
+    },
+    {
+      "name": "Franky",
+      "role": "Shipwright",
+      "aliases": ["Cyborg Franky"],
+      "bounty": 394000000,
+      "affiliations": ["Straw Hat Pirates"],
+      "devil_fruit": null,
+      "abilities": ["Cyborg body", "Engineering", "Weapon systems"],
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Franky_Anime_Post_Timeskip_Infobox.png",
+      "summary": "Brash cyborg shipwright who built the Thousand Sunny."
+    },
+    {
+      "name": "Brook",
+      "role": "Musician",
+      "aliases": ["Soul King"],
+      "bounty": 383000000,
+      "affiliations": ["Straw Hat Pirates"],
+      "devil_fruit": {
+        "name": "Yomi Yomi no Mi",
+        "type": "Paramecia",
+        "description": "Revives the user after death and enables soul-based abilities."
+      },
+      "abilities": ["Swordsmanship", "Music", "Soul powers"],
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/1/14/Brook_Anime_Post_Timeskip_Infobox.png",
+      "summary": "Lively skeleton musician returned to life by the Revive-Revive Fruit."
+    },
+    {
+      "name": "Jinbe",
+      "role": "Helmsman",
+      "aliases": ["Knight of the Sea"],
+      "bounty": 1100000000,
+      "affiliations": ["Straw Hat Pirates", "Sun Pirates"],
+      "devil_fruit": null,
+      "abilities": ["Fish-Man Karate", "Immense strength", "Seamanship"],
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Jinbe_Anime_Post_Timeskip_Infobox.png",
+      "summary": "Honorable fish-man master of Fish-Man Karate and crew helmsman."
+    }
+  ],
+  "ships": [
+    {
+      "name": "Thousand Sunny",
+      "type": "Brig Sloop",
+      "affiliation": ["Straw Hat Pirates"],
+      "builder": "Franky and Galley-La Company",
+      "status": "Active",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Thousand_Sunny_Infobox.png",
+      "summary": "The Straw Hats' second ship built from Adam Wood with the Soldier Dock System."
+    }
+  ]
+}
