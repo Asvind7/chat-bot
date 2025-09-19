@@ -75,7 +75,7 @@ export default function App() {
           <div className="text-2xl">☀️</div>
           <div>
             <div className="font-semibold">Straw Hat Chat</div>
-            <div className="text-xs text-gray-500">Local knowledge • Light theme</div>
+            <div className="text-xs text-blue-500">Local knowledge • Light theme</div>
           </div>
         </div>
       </header>
