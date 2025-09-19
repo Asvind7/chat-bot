@@ -90,7 +90,7 @@ export default function App() {
             <div className="w-full flex justify-start mb-3">
               <div className="bg-white border border-gray-200 rounded-2xl px-4 py-3 shadow">
                 <span className="inline-flex gap-1">
-                  <span className="w-2 h-2 bg-gray-400 rounded-full animate-bounce"></span>
+                  <span className="w-2 h-2 bg-gray-300 rounded-full animate-bounce"></span>
                   <span className="w-2 h-2 bg-gray-400 rounded-full animate-bounce [animation-delay:120ms]"></span>
                   <span className="w-2 h-2 bg-gray-400 rounded-full animate-bounce [animation-delay:240ms]"></span>
                 </span>
